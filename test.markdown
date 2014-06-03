@@ -3,6 +3,6 @@ Some interesting stuff
 
 temp
 
-*this
-*that
-*the other thing
+* this
+* that
+* the other thing
